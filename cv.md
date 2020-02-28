@@ -33,7 +33,7 @@ _Some kind of self-presentation. In case of lack of experience Junior Developer 
         * TFS
 
 1. **Code examples** _(LATEST)_
-```
+```javascript
     const getAuthToken = (expired) => {
     const emailServiceTokenCacheKey = 'EmailServiceToken';
     let token;
